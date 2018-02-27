@@ -110,12 +110,6 @@ $(document).on("click", "#my-button", function() {
 
 ## Homework
 
-## DOM Manipulation Exercise: Shakespeare's Plays
+### Select Fun Exercise
 
-- Download the starter code files.
-- Add a class of special to all of the li elements at the second level of the nested list.
-- Add a class of year to all of the table cells in the third column of a table.
-- Hint: Take a look at how many columns are in each table.
-- Add the class of special to the first table row that has the word Tragedy in it.
-- Challenge: Select all of the list items li containing a link a. Add the class afterlink to the sibling list items that follow the ones selected.
-- Challenge: Add the class tragedy to the closest ancestor ul of any .pdf link.
+
